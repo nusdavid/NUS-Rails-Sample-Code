@@ -1,4 +1,4 @@
-# NUS-Rails-Sample-Code
+# NUS Ruby on Rails Sample Code
 
 You will see our coding conventions, style and how we structure project as well as some gems that we often use in the sample code. It is not a runnable project.
 
